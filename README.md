@@ -1,5 +1,6 @@
 # jobgpt-vue (front-end)
-Job GPT is an job interview simulator *using artificial intelligence of OpenAi* to practice with many area and many languages
+Job GPT is an job interview simulator *using artificial intelligence of OpenAi* to practice with many area and many languages.
+Questions and analysis of answers are generated through the OpenAi API.
 
 ## Owner: https://linktr.ee/leonardodejesus
 
