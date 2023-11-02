@@ -1,4 +1,8 @@
-# jobgpt-vue
+# jobgpt-vue (front-end)
+
+## Owner: https://linktr.ee/leonardodejesus
+
+## back-end -> https://github.com/leojdd/JobGPT
 
 ## Project setup
 ```
