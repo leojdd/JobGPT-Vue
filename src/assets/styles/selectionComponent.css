@@ -1,0 +1,47 @@
+.card {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.finish-button {
+    float: right;
+    margin-top: 15px;
+}
+
+.app {
+    background-color: #252525;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: flex-start;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background: #252525;
+    width: 100%;
+    text-align: center;
+    height: 25px;
+}
+
+.footer h6 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+/* .footer{
+    background: #ffab62;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    } */
+
+.text-answer {
+    margin-top: 10px;
+}

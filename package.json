@@ -1,0 +1,27 @@
+{
+  "name": "jobgpt-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.23.1",
+    "tailwindcss": "^3.3.5",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
